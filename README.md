@@ -1,2 +1,2 @@
-# pting-2
+# Pting Website
 Navigate developers to work on a website.
